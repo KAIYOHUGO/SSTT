@@ -1,12 +1,12 @@
 <div align = "center">
 
-# SSTT
+# SSTTT
 
-More **S**yn **S**yntax **T**ree **T**raversal Trait
+More **S**yn **S**yntax **T**ree **T**raversal **T**rait
 
-![GitHub](https://img.shields.io/github/license/madylab/sstt?style=for-the-badge) ![Crates.io](https://img.shields.io/crates/v/sstt?style=for-the-badge) ![docs.rs](https://img.shields.io/docsrs/sstt?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/madylab/ssttt?style=for-the-badge) [![Crates.io](https://img.shields.io/crates/v/ssttt?style=for-the-badge)](https://crates.io/crates/ssttt) [![docs.rs](https://img.shields.io/docsrs/ssttt?style=for-the-badge)](https://docs.rs/ssttt/0.1.0/ssttt/)
 
-SSTT crate provide some useful trait for syn syntax tree traversal.
+SSTTT crate provide some useful trait for syn syntax tree traversal.
 </div>
 
 ## Example
