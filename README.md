@@ -1,4 +1,4 @@
-<center>
+<div align = "center">
 
 # SSTT
 
@@ -7,7 +7,7 @@ More **S**yn **S**yntax **T**ree **T**raversal Trait
 ![GitHub](https://img.shields.io/github/license/madylab/sstt?style=for-the-badge) ![Crates.io](https://img.shields.io/crates/v/sstt?style=for-the-badge) ![docs.rs](https://img.shields.io/docsrs/sstt?style=for-the-badge)
 
 SSTT crate provide some useful trait for syn syntax tree traversal.
-</center>
+</div>
 
 ## Example
 
